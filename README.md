@@ -1,10 +1,7 @@
 
-Identifying trends and patterns in World Cup tournaments using SQL.
 
-Using SQL results to answer relevant research questions.
-
-The problem this project intends to solve is how to organise historical FIFA World Cup data into a properly structured relational database and use SQL to extract meaningful information from it.
-The aim of this project is to design a relational database, create and ERD and SQL-based analysis of FIFA World Cup tournaments.
+This project intends to know how to organise historical FIFA World Cup data into a properly structured relational database and use SQL to extract meaningful information from it.
+The aim is to design a relational database, create an ERD and SQL-based analysis of FIFA World Cup tournaments.
 
 The project will focus on:
 
@@ -25,5 +22,3 @@ Using SQL to retrieve, filter, aggregate, and analyse the data.
 Identifying trends and patterns in World Cup tournaments using SQL.
 
 Using SQL results to answer relevant research questions.
-
-The problem this project intends to solve is how to organise historical FIFA World Cup data into a properly structured relational database and use SQL to extract meaningful information from it.
