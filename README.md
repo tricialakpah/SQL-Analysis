@@ -95,7 +95,7 @@ The analysis will include queries for:
 * Grouping countries and continents
 * Ranking successful countries
 * Calculating totals and averages
-* Comparing tournament years
+* Comparing tournaments years
 * Identifying highest and lowest values
 * Analysing attendance trends
 * Analysing team and player performance
